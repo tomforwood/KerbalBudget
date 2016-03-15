@@ -1,0 +1,22 @@
+﻿---On new game display dialog
+---	record mode Vs disabled mode Vs funds only mode Vs funds and science mode
+---	accelerated start option
+---convert contract funds to Rep
+---convert contract science to rep
+
+Gui to show transactions
+
+Field Science To Rep
+
+---periodic rep to funds + science
+funds/science strategy
+changing funds/science strategy has lead time e.g. money is spent starting or shuting down labs without science gain
+
+plugin interface for periodic costs
+	Pay you kerbals instead of paying for recruitment
+
+clear transaction history (or reduce to last 50?)
+Change progress rewards
+
+
+remove all the callbacks I have added
